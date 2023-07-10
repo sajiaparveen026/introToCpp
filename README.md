@@ -4,8 +4,8 @@
 
 ->> OOP -> Object oriented progamming
 
-<< -> extraction
->> -> insertion
+-> << = extraction
+-> >> = insertion
 
 ->> int n = 9;  // It means we are assigning a value to the variable
     here,
@@ -36,3 +36,44 @@
              sizeOf
              type of
              
+## Relational Operator.     
+1.< less than
+2.> greater than
+3.<= less than or equal to
+4.>= greater than or equal
+5.== equal to
+6.!= not equal
+
+## Assignment Operator -> =
++= add and assign.
+-= sub. and assign
+*= multiply
+/= divide
+
+## Conditional Statements
+1. if
+2. if else
+3. if else if
+4. Switch statement
+
+## Loops
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
